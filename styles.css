@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background: #0056b3;
 }
 /* Container */
 .container {
@@ -124,7 +124,7 @@ header nav ul li a:hover {
 }
 
 .hero .btn:hover {
-    background-color: #f0f1ec;
+    background: #f0f1ec;
 }
 
 /* Featured Products Section */
@@ -179,7 +179,7 @@ header nav ul li a:hover {
 }
 
 .product .btn:hover {
-    background-color: #555;
+    background: #555;
 }
 
 /* Footer */
