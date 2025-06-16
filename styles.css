@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
+    background: #555;
 }
 /* Container */
 .container {
@@ -124,7 +124,7 @@ header nav ul li a:hover {
 }
 
 .hero .btn:hover {
-    background: #f0f1ec;
+    background: #555;
 }
 
 /* Featured Products Section */
